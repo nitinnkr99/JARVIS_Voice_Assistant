@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.12 (JARVIS_Voice_Assistant)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (JARVIS_Voice_Assistant)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 virtualenv at ~/PycharmProjects/JARVIS_Voice_Assistant/venv" project-jdk-type="Python SDK" />
 </project>
